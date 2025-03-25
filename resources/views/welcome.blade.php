@@ -33,7 +33,7 @@
             <div class="col-md-8">
                 <h1 class="display-4 text-primary animate__animated animate__fadeInDown">Find the Best Internships & Kickstart Your Career</h1>
                 <p class="lead text-secondary">InternHub connects students with top companies for valuable work experience.</p>
-                <a href="#" class="btn btn-primary btn-lg mt-3">Get Started</a>
+                <a href="/login" class="btn btn-primary btn-lg mt-3">Get Started</a>
             </div>
         </div>
         
